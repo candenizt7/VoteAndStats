@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|c:\\users\\cande\\desktop\\c#ders\\veri_tabanli_parti_secim_grafik_istatistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F1FE4E2-708D-405F-990A-74B6932E3EAE}|Veri_Tabanli_Parti_Secim_Grafik_Istatistik.csproj|solutionrelative:frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "RelativeToolTip": "FrmGrafikler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwv0MAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:05:21.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-02T11:52:17.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOyGiris.cs",
+              "DocumentMoniker": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "FrmOyGiris.cs",
+              "ToolTip": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "RelativeToolTip": "FrmOyGiris.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawBQAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-02T11:59:40.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOyGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "FrmOyGiris.cs",
+              "ToolTip": "C:\\Users\\cande\\Desktop\\c#ders\\Veri_Tabanli_Parti_Secim_Grafik_Istatistik\\FrmOyGiris.cs [Design]",
+              "RelativeToolTip": "FrmOyGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-02T11:46:19.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
